@@ -1,1 +1,2 @@
-# python-scrapy-jobs
+# Web scraping to find jobs 
+
